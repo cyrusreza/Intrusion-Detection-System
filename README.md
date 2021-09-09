@@ -1,5 +1,5 @@
 # Intrusion-Detection-System
-#detect network vulnerability by ip filtering
+#detect device vulnerability by ip filtering
 #!/usr/bin/env python3
 #PoC Script
 #PoC script slightly modified to test bypass mode
